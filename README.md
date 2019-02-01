@@ -1,4 +1,6 @@
 # [pinkcoms.com](https://pinkcoms.com)
+*Note website is not live, yet*
+
 A website, that isn't super professional but is still somewhat professional to some people.
 Simple personal website filled with random useless stuff. <br/>
 Right now its more so on the empty side.
