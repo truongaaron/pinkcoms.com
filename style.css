@@ -1,0 +1,80 @@
+footer {
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+#about-head{
+	font-family: 'Mada', sans-serif;
+	margin-right:65%;
+}
+
+#h3-about {
+	font-family: 'Dosis', sans-serif;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-size: 30px;
+}
+
+#h3-portfolio {
+	font-family: 'Dosis', sans-serif;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-size 30px;
+}
+
+#pup {
+	width: 75%;
+	height: 50%;
+	position: relative;
+}
+
+#devmatch {
+	cursor: pointer;
+}
+
+#pic-dev {
+	width: 50%;
+	margin-right: 15%;
+}
+
+#pic-trump-pen {
+	width: 50%;
+	margin-right: 15%;
+}
+
+.img-left {
+	float:left; margin: 5px; 
+}
+
+#h3-contact{
+	font-family: 'Dosis', sans-serif;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-size 30px;
+}
+
